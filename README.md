@@ -1,9 +1,6 @@
-# Hi there! 👋 I'm TJ Bravo
+# Hi there! 👋 I'm Muhammad Talha, aka TJ aka TJ Bravo
 
 ## 🚀 Software Developer | AI Engineer | Full-Stack Dev
-
-I specialize in building **Agentic AI** systems, implementing **Retrieval-Augmented Generation (RAG)**, and developing robust **frontend applications** using **Next.js & React**, with a **Python backend**. Passionate about crafting intelligent, scalable, and efficient solutions.
-
 ---
 
 ### 🛠️ Technologies & Tools:
@@ -40,27 +37,3 @@ I specialize in building **Agentic AI** systems, implementing **Retrieval-Augmen
 - Implements **Retrieval-Augmented Generation (RAG)**.
 - Uses **LangChain, OpenAI, and Vector Databases**.
 - Deployed on **FastAPI & Vercel**.
-
-#### 🛍️ **E-commerce Store (B2B Wholesale)**
-- Built with **Shopify, Next.js, and custom API integrations**.
-- Supports **bulk ordering, MOQ per attribute, and optimized UX**.
-- Integrated with **Odoo for seamless inventory management**.
-
----
-
-### 📫 How to Reach Me:
-- 🌐 **Website:** [tjbravo.com](https://tjbravo.com)
-- 📩 **Email:** talha@tjbravo.com
-- 💼 **LinkedIn:** [TJ Bravo](https://linkedin.com/in/tjbravo)
-- 🏗️ **GitHub:** [TJBravo](https://github.com/TJBravo)
-
----
-
-### 📖 Latest Blog Posts
-Check out my latest insights on **AI, RAG, and Full-Stack Dev** on my [blog](https://tjbravo.com/blog).
-
----
-
-### ⚡ Fun Fact:
-I enjoy optimizing workflows and love solving **complex AI problems** while keeping my codebase clean and maintainable! 🚀
-
